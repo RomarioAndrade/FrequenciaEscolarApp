@@ -1,2 +1,2 @@
 # FrequenciaEscolarApp
-Projeto Simplesde App feito no AppInventor 
+Projeto Simples de App feito no AppInventor 
